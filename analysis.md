@@ -2,7 +2,7 @@
 
 ## 📈 Score Distribution
 
-![Score Distribution](score_distribution.png)
+![Score Distribution](figures/score_distribution.png)
 
 ## 💡 Behavior Summary by Score Range
 
